@@ -7,7 +7,7 @@ const defaultCharacter: Character = {
         "twitter",
         //"telegram"
     ],
-    modelProvider: ModelProvider.LLAMALOCAL,
+    modelProvider: ModelProvider.CLAUDE_VERTEX,
     settings: {
         secrets: {},
         voice: {
