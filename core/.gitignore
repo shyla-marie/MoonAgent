@@ -2,3 +2,5 @@ node_modules
 dist
 elizaConfig.yaml
 custom_actions/
+core/.env
+.env
