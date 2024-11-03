@@ -1,7 +1,7 @@
 import { Character, ModelProvider } from "./types.ts";
 
 const defaultCharacter: Character = {
-    name: "darksma",
+    name: "Dark SMA",
     clients: [
        // "discord",
         "twitter",
